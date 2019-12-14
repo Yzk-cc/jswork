@@ -4,33 +4,37 @@
     border: 1px solid #ccc;
     position: relative;
 }
+
 .big{
-    width: 400px;
+    width:400px;
     height: 400px;
-    position: absolute;
-    top: 0;
+    position:absolute;
+    top:0;
     left: 360px;
     border: 1px solid #ccc;
     overflow: hidden;
     display: none;
 }
+
 .mask{
-    width: 175px;
+    width:175px;
     height: 175px;
-    background: rgba(255, 255, 0, .4);
     position: absolute;
-    top: 0;
-    left: 0;
+    top:0;
+    left:0;
     cursor: move;
     display: none;
-
+    background: rgba(255, 255, 0, .4);
 }
+
 .small{
     position: relative;
 }
-.box img {
+
+.box img{
     vertical-align: top;
 }
+
 #bigBox img{
     position: absolute;
 }
