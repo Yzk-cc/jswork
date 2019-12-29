@@ -1,24 +1,26 @@
 {
-    "name": "jswork",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/CHUN888/jswork.git"
-    },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/CHUN888/jswork/issues"
-    },
-    "homepage": "https://github.com/CHUN888/jswork#readme",
-    "dependencies": {
-      "body-parser": "^1.19.0",
-      "curl": "^0.1.4",
-      "express": "^4.17.1"
-    }
+  "name": "jswork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CHUN888/jswork.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CHUN888/jswork/issues"
+  },
+  "homepage": "https://github.com/CHUN888/jswork#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "curl": "^0.1.4",
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "nodejs-websocket": "^1.7.2"
   }
+}
