@@ -35,7 +35,7 @@
     width: 15px;
     height:15px;
     border-radius: 100%;
-    background: rgb(145, 144, 144,.5_);
+    background: rgb(145, 144, 144,.5);
     cursor: pointer;
 }
 .dot .on{
@@ -57,7 +57,7 @@
     position: absolute;
     top: 50%;
     left: 0;
-    margin-top: -59px;
+    margin-top: -50px;
 
 }
 .arrow .next{
